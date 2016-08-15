@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Sample Text</title>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" type="image/x-icon" href="whatevername.ico"/>
+	<link rel="stylesheet" type="text/css" href="whatevername.css">
+</head>
+<body>
+	
+</body>
+</html>
