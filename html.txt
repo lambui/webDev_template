@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<link rel="shortcut icon" type="image/x-icon" href="whatevername.ico"/>
 	<link rel="stylesheet" type="text/css" href="whatevername.css">
-	<script scr="addJavascript.js"></script>
+	<script src="addJavascript.js"></script>
 </head>
 <body>
 	
